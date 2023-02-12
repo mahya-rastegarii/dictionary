@@ -1,0 +1,9 @@
+{
+  "scripts" : {
+    "tailwind" : "npx tailwindcss -i ./dictionary/Css/style.css -o ./dictionary/Css/main.css --watch",
+    "build": "npx tailwindcss -i ./dictionary/Css/style.css -o ./dictionary/Css/main.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.2"
+  }
+}
