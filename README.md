@@ -1,2 +1,2 @@
 # dictionary
-Online English dictionary
+English online dictionary with tailwindCss
